@@ -1,0 +1,5 @@
+Write a servlet which will send your personal info to browser.
+   servlet should be availale at below URL :
+
+   http://ipaddress:5000/cdk/personal
+  
